@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "dump": {
+        "channelId": "",
+        "cooldown": 1,
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": ""
+    }
+}

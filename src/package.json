@@ -1,0 +1,27 @@
+{
+  "name": "discord_dump_bot",
+  "version": "1.0.0",
+  "description": "Simple bot of dump database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/combo0001/bot-dump-database.git"
+  },
+  "author": "! vRP.Combo#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/combo0001/bot-dump-database/issues"
+  },
+  "homepage": "https://github.com/combo0001/bot-dump-database#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "mysqldump": "^3.2.0"
+  }
+}
