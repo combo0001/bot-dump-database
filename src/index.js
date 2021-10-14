@@ -65,5 +65,5 @@ const taskDump = async () => {
     setTimeout(taskDump, (dump.cooldown || 10) * 60 * 1000)
 }
 
-setTimeout(taskDump, (dump.cooldown || 10) * 1000)
+setTimeout(taskDump, (dump.cooldown || 10) * 60 * 1000)
 console.log('[SERVER] Webhook conectado!')

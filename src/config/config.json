@@ -1,10 +1,10 @@
 {
-    "webhook": "https://discord.com/api/webhooks/890664358433153055/MWq6HVNENLaGaaYcO975t_7nBWx993C7PNIDoIsocj_oQYv3I6jHcQ8cD5-YGa3fDpvj",
+    "webhook": "",
     "dump": {
-        "cooldown": 1,
+        "cooldown": 10,
         "host": "localhost",
-        "user": "root",
-        "password": "",
-        "database": "vrp"
+        "user": "user",
+        "password": "password",
+        "database": "name"
     }
 }
