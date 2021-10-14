@@ -1,11 +1,10 @@
 {
-    "token": "",
+    "webhook": "https://discord.com/api/webhooks/890664358433153055/MWq6HVNENLaGaaYcO975t_7nBWx993C7PNIDoIsocj_oQYv3I6jHcQ8cD5-YGa3fDpvj",
     "dump": {
-        "channelId": "",
         "cooldown": 1,
         "host": "localhost",
         "user": "root",
         "password": "",
-        "database": ""
+        "database": "vrp"
     }
 }
